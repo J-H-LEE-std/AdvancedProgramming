@@ -1,0 +1,18 @@
+Implement one-point crossover.
+    -The length of a chromosome is 10.
+    -The program should reads two length 10 binary arrays and display two offspring after the crossover. 
+
+Example Runnings:
+--------------------------------
+    Parent1: 0011010111
+    Parent2: 1011000101
+    Cut point: before index 1
+    Offspring1: 0011000101
+    Offspring2: 1011010111
+--------------------------------
+    Parent1: 0011010111
+    Parent2: 1011000101
+    Cut point: before index 7
+    Offspring1: 0011010101
+    Offspring2: 1011000111
+--------------------------------
