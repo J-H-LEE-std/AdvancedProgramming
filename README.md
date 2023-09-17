@@ -1,12 +1,12 @@
-#Advanced Programming Programming Test Example Source Code
+# Advanced Programming Programming Test Example Source Code
 
 본 Repository는 심화프로그래밍의 Programming test를 푸는 데 어려움을 겪는 학생들을 위해 해당 문제의 정답을 수업에서 사용하는 언어 4개(C/C++/Java/Python)으로 각각 구현한 것입니다.
 
-##활용방법
+## 활용방법
 
 - 각 주차별 폴더에 프로그래밍 문제 예제를 옮겨놓은 문서(txt파일)과 이를 구현한 4개의 소스코드가 들어 있습니다.
 - 자신이 풀었던 소스코드와 비교해보면서 복습에 활용하면 좋습니다.
 
-##주의사항
+## 주의사항
 - 문제의 정답은 프로그래밍 시험이 있은 후로부터 1주일 후에 공개됩니다.
 - 본 문제의 코드를 활용하여 프로그램 구현에 자유롭게 사용하셔도 됩니다.
