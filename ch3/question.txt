@@ -1,0 +1,15 @@
+Transform the order-based encoding of TSP into the locus-based encoding.
+    - The length of a chromosome is 10. (10-permutation composed of 0~9)
+    - The program should reads 10-permutation (order based encoding) arrays and display the corresponding locus-based encoding results.
+
+Example Runnings:
+--------------------------------
+    Order-based: 0349271658
+    Locus-based: 3674985102
+--------------------------------
+    Order-based: 5482691370
+    Locus-based: 5367849021
+--------------------------------
+    Order-based: 1957082643
+    Locus-based: 8961374025
+--------------------------------
